@@ -15,13 +15,15 @@ during BSCS program.
 - UolApp - University App
 - MapAssignment - Map App
 - FristStep - Beginner App
-
+- FitnessTrackerApp – Fitness Tracking  App
+-FlashcardQuizApp – Flashcard Quiz      Learning App
+-RandomQuoteGenerator – Random Quote    Generator App
+-LanguageLearningApp – Language         Learning Application
 ## Developer
 - Name: Nasir Amin Khan
 - Email: nasiraminkhan4@gmail.com
 - GitHub: nasiraminkhan
 - Degree: BS Computer Science
-
 ## Technology
 - Android Studio
 - Java
